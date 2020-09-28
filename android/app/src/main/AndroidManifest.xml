@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.quizapp">
+    package="com.joffreyf.flutterQuizapp">
    <application
         android:label="quizapp"
         android:icon="@mipmap/ic_launcher">
